@@ -60,7 +60,7 @@
 		</tr>
 	</table>
 </form:form>
-<table width="50%" bgcolor="yellow" align="center">
+<table width="40%" bgcolor="blue" align="left">
 
 <tr>
 <td colspan=2><center><font size=6><b>HTML Login Page</b></font></center></td>
@@ -68,7 +68,7 @@
 
 <tr>
 <td>Username:</td>
-<td><input type="text" size=20 name="userid"></td>
+<td><input type="text" size=30 name="userid"></td>
 </tr>
 
 <tr>
